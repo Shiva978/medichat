@@ -4,10 +4,6 @@
 
 MediChat-LLM is an advanced chatbot designed specifically for medical professionals and enthusiasts. Utilizing state-of-the-art language models, MediChat-LLM can provide insightful, accurate, and contextually relevant responses to medical inquiries. This project is built to leverage the power of large language models, particularly the Llama 2 model, to create an intelligent assistant that can access and utilize a custom knowledge base derived from medical literature.
 
-## Project Repository
-
-Project repository link: [GitHub - dhairya8luthra/medichat-LLM](https://github.com/dhairya8luthra/medichat-LLM)
-
 ## Screenshots
 ![alt text](https://github.com/dhairya8luthra/medichat-LLM/blob/main/screenshots/4.png?raw=true)
 ## 
