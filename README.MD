@@ -27,8 +27,8 @@ MediChat-LLM is an advanced chatbot designed specifically for medical profession
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/dhairya8luthra/medichat-LLM.git
-    cd medichat-LLM
+    git clone https://github.com/Shiva978/medichat.git
+    cd medichat
     ```
 
 2. **Create and Activate a Conda Environment**
